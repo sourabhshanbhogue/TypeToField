@@ -153,3 +153,5 @@ stop_button = tk.Button(buttons_frame, text="Stop", command=stop_typing)
 stop_button.pack(side=tk.LEFT, padx=5)
 
 root.mainloop()
+
+#end
